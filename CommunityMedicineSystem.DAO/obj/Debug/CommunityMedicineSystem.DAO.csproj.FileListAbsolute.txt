@@ -1,0 +1,12 @@
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.DAO\bin\Debug\CommunityMedicineSystem.DAO.dll
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.DAO\bin\Debug\CommunityMedicineSystem.DAO.pdb
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.DAO\obj\Debug\CommunityMedicineSystem.DAO.dll
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.DAO\obj\Debug\CommunityMedicineSystem.DAO.pdb
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.DAO\bin\Debug\CommunityMedicineSystem.DAO.dll
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.DAO\bin\Debug\CommunityMedicineSystem.DAO.pdb
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.DAO\obj\Debug\CommunityMedicineSystem.DAO.dll
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.DAO\obj\Debug\CommunityMedicineSystem.DAO.pdb
+E:\FTFL Class Lecture\BITM course\February, 2015\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.DAO\bin\Debug\CommunityMedicineSystem.DAO.dll
+E:\FTFL Class Lecture\BITM course\February, 2015\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.DAO\bin\Debug\CommunityMedicineSystem.DAO.pdb
+E:\FTFL Class Lecture\BITM course\February, 2015\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.DAO\obj\Debug\CommunityMedicineSystem.DAO.dll
+E:\FTFL Class Lecture\BITM course\February, 2015\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.DAO\obj\Debug\CommunityMedicineSystem.DAO.pdb

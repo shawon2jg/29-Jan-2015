@@ -1,0 +1,36 @@
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.Web.dll.config
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.Web.dll
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.Web.pdb
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.BLL.dll
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.DAL.dll
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.DAO.dll
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.BLL.pdb
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.DAL.pdb
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.DAO.pdb
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.Web\obj\Debug\CommunityMedicineSystem.Web.csprojResolveAssemblyReference.cache
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.Web\obj\Debug\CommunityMedicineSystem.Web.dll
+E:\University\Tutorial\Complete\Learning_to_Program_with_C_Sharp_Working_Files\CommunityMedicineSystem\CommunityMedicineSystem.Web\obj\Debug\CommunityMedicineSystem.Web.pdb
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.Web.dll.config
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.Web.dll
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.Web.pdb
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.BLL.dll
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.DAL.dll
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.DAO.dll
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.BLL.pdb
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.DAL.pdb
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.DAO.pdb
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\obj\Debug\CommunityMedicineSystem.Web.csprojResolveAssemblyReference.cache
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\obj\Debug\CommunityMedicineSystem.Web.dll
+F:\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\obj\Debug\CommunityMedicineSystem.Web.pdb
+E:\FTFL Class Lecture\BITM course\February, 2015\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.Web.dll.config
+E:\FTFL Class Lecture\BITM course\February, 2015\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.Web.dll
+E:\FTFL Class Lecture\BITM course\February, 2015\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.Web.pdb
+E:\FTFL Class Lecture\BITM course\February, 2015\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.BLL.dll
+E:\FTFL Class Lecture\BITM course\February, 2015\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.DAL.dll
+E:\FTFL Class Lecture\BITM course\February, 2015\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.DAO.dll
+E:\FTFL Class Lecture\BITM course\February, 2015\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.BLL.pdb
+E:\FTFL Class Lecture\BITM course\February, 2015\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.DAL.pdb
+E:\FTFL Class Lecture\BITM course\February, 2015\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\bin\CommunityMedicineSystem.DAO.pdb
+E:\FTFL Class Lecture\BITM course\February, 2015\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\obj\Debug\CommunityMedicineSystem.Web.csprojResolveAssemblyReference.cache
+E:\FTFL Class Lecture\BITM course\February, 2015\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\obj\Debug\CommunityMedicineSystem.Web.dll
+E:\FTFL Class Lecture\BITM course\February, 2015\04-Feb-2015\CommunityMedicineSystem\CommunityMedicineSystem.Web\obj\Debug\CommunityMedicineSystem.Web.pdb
